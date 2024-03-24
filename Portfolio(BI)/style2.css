@@ -1,0 +1,141 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+/* background-image: url(""); */
+background-color: #072541;
+background-size: cover;
+}
+
+.heading{
+    height:10vh;
+    width: 100%;
+    background-color: #FEFBF6;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+    /* padding-top:15px; */
+    /* border-left: 15px solid black ; */
+   
+}
+#h1{
+    width:20vh;
+    width: 20%;
+    background-color: #C1F2B0;
+    text-align: center;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.box{
+    height: 400px;
+    width:600px;
+    background-color: #A8D1D1;
+    text-align: center;
+    /* padding-top: 10px; */
+    /* overflow: auto; */
+    
+
+}
+.box:hover{
+    scale: 1.1;
+}
+
+.box-01{
+    height: 40px;
+    width: 600px;
+    background-color:#EC994B;
+    text-align: center;
+    padding-top: 15px;
+}
+.box-02
+{
+    height: 40px;
+    width: 600px;
+    background-color:#F3E9DD;
+    text-align: center;
+   padding-top: 15px;
+}
+.box-03{
+    height: 40px;
+    width: 600px;
+    background-color:#0B60B0;
+    text-align: center;
+    padding-top: 15px;
+}
+.box-04{
+    height: 40px;
+    width: 600px;
+    background-color:#B80000;
+    text-align: center;
+    padding-top: 15px;
+}
+.box-05{
+    height: 40px;
+    width: 600px;
+    background-color:#176B87;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+.box3{
+    height: 400px;
+    width:600px;
+    /* background-color: ; */
+    margin-top:50px;
+    /* text-align: center; */
+    /* padding-top: 10px; */
+    /* background-image: url("linkedln.png");
+    background-size: cover; */
+    /* margin-left: 40px; */
+  
+    /* overflow:scroll; */
+}
+.box3:hover{
+    scale: 1.1;
+}
+
+/* .box4{
+    height: 50px;
+    width: 750px;
+    background-color:#9EA1D4;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 40px;
+} */
+.project1{
+    margin-top: 70px;
+}
+.project2{
+    margin-top: 70px;
+}
+.project3{
+   
+        margin-top: 80px;
+    
+}
+.project4{
+    margin-top: 80px;
+}
+.project5{
+    margin-top: 80px;
+}
+.project6{
+    margin-top: 80px;
+}
+.box-06{
+    height: 40px;
+    width: 600px;
+    background-color:#F3E9DD;
+    text-align: center;
+    padding-top: 15px;
+}
